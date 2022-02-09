@@ -1,6 +1,6 @@
 # DATA 606 - Capstone Project
 
-<font size = 50>**Ujjwal**</font>
+<font size = "50">**Ujjwal**</font>
 
 > ***UMBC Global Ambassador***
 
