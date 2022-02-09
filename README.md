@@ -1,8 +1,11 @@
 # DATA 606 - Capstone Project
 ## Ujjwal
 *UMBC Global Ambassador*
+
 *Grduate Grader (Data Science)*
+
 **Data Science Department**
+
 **University of Maryland, Baltimore County**
 
 ### About me
