@@ -1,5 +1,7 @@
 # DATA 606 - Capstone Project
-## Ujjwal
+
+**Ujjwal**
+
 *UMBC Global Ambassador*
 
 *Grduate Grader (Data Science)*
