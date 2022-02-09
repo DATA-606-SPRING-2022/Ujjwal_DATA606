@@ -2,9 +2,9 @@
 
 **Ujjwal**
 
-***UMBC Global Ambassador***
+> ***UMBC Global Ambassador***
 
-***Grduate Grader (Data Science)***
+> ***Grduate Grader (Data Science)***
 
 **Data Science Department**
 
