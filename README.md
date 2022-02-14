@@ -42,7 +42,6 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - I have found the following datasets useful for my problem statement:
    - https://www.kaggle.com/patrickaudriaz/tobacco3482jpg : 2GB dataset with 3492 files, consisting of 10 kinds of documents. categories - (ADVE, Email, Form, Letter, Memo, News, Note, Report, Resume, Scientific). This dataset is introduced in "Jayant Kumar, Peng Ye and David Doermann. "Structural Similarity for Document Image Classification and Retrieval." Pattern Recognition Letters, November 2013".
    - https://www.kaggle.com/shaz13/real-world-documents-collections : 475 MB dataset with 5000 files, consisting of 16 kinds of documents. categories - (Specification, Email, Advertisement, Handwritten, Scientific Report, Budget, Scientific Publication, Presentation, File Folder, Memo, Resume, Invoice, Letter, Questionnaire, Form, News Article). 
-   - 
 
 **5. What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect?**
    - Unit of analysis will be various kinds of documents e.g. Email, Form, Letter, Memo, Scientific Report, etc.
