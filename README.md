@@ -13,28 +13,37 @@
 ## About me
 I am a passionate and a motivated professional with sheer interest in Data Science and Machine learning. Proficient in data cleaning and transformation, I am adept at conducting statistical analysis to derive data-driven insights and develop machine learning models. I am eagerly looking to join an organization where I can add value and make notable impact through my competent problem solving skills.
 
+## Capstone Project Title
+**Document Classification using OCR (Optical Character Recognition) and NLP (Natural Language Processing) - A Multimodal Approach**
+
 ## Project Draft Proposal
 1. What is your issue of interest (provide sufficient background)?
-   - I want to work on the analysis of audio data to develop machine learning models for either sentiment analysis, emotion detection or any state of art application.
+   - My issue of interest is Document Classification and I want to work on developing a state of art application that can classify a Document using Computer Vision, Optical Character Recognition (OCR) and NLP (Natural Language Processing).
+   - "Document classification is a process of assigning categories or classes to documents to make them easier to manage, search, filter, or analyze. A document in this case is an item of information that has content related to some specific category. Product photos, commentaries, invoices, document scans, and emails all can be considered documents." [1]
+   - Document Classification task can also be perceived as a collaborative task dealing with text classification and visual classification because a document has an associated visual structure and texts related to its domain.
+   - "Text classification concerns defining the type, genre, or theme of the text based on its content. Depending on the task, complex techniques like NLP can be used to analyze words and phrases in context and understand their semantics (meaning)."[1]
+   - "Visual classification focuses on a visual structure of documents, employing computer vision and image recognition technologies."[1]
 
 2. Why is this issue important to you and/or to others?
-   - Analysis of audio data has a lot of challenges and potential along with real world applications.
-   - I have already worked on image processing and natural language processing and I feel that working on audio data will equip me to work on multimodal AI tasks. 
-   - With the rise of audio assistants like Alexa and Siri, this field seems really promising to me.
+   - Document Classification has become crucial for various kinds of organizations, whether business or government, as "it not only helps us in saving information but also helps us find these documents whenever required."[2]
+   - It is becoming an increasingly effective way for collection and storage of data that can become a rich source of business analytics. For example, "A customer services team might use document classification to ensure incoming support tickets go to the right individual. An accounting firm might use invoice classification to assign expenses to the correct department."[2]
+   - But with the vast amounts of data being added to the digital storage space, it is becoming more and more difficult to classify them manually. Hence, an automated approach is required to address this issue.
+   - With the rise of automation especially in industries, this field seems really promising to me. It is fast, efficient and it frees up human resources for better brainstorming works in any organization.
+   - I have already worked on image processing and natural language processing and I feel that working on a data science and machine learning problem that entails the use of both of these aspect, will equip me for future multimodal AI tasks. 
 
 3. What questions do you have in mind and would like to answer?
-   - I want to understand how the variation in audio data can be normalized to develop various audio assisted applications.
-   - I want to understand if there is significant difference in the audio signals based on gender, dialect, accent etc.
+   - I want to find how the manual document classification compares to automated document classification.
+   - I want to understand how automated document classification can impact an organization.
+   - I want to explore whether a Multimodal approach of combining Computer Vision, OCR and NLP will give better results in document classification, than using each of these aspects individually.
 
 4. Where do you get the data to analyze and help answer your questions (credibility of source, quality of data, size of data, attributest of data etc.)?
-   - There are a lot of amazing sources available for audio, audio-visual and audio-visual text data.
-   - I found the following sources most useful:
-   - https://github.com/philipperemy/timit/blob/master/README.md , https://www.kaggle.com/mfekadu/darpa-timit-acousticphonetic-continuous-speech?select=PROMPTS.TXT
-   - https://paperswithcode.com/dataset/vctk
-   - https://paperswithcode.com/dataset/common-voice  
+   - A number of researchers have worked on this problem previously leading to wonderful datasets available for promoting research in this field.
+   - I have found the following datasets useful for my problem statement:
+   - https://www.kaggle.com/patrickaudriaz/tobacco3482jpg : 2GB dataset with 3492 files, consisting of 10 kinds of documents. categories - (ADVE, Email, Form, Letter, Memo, News, Note, Report, Resume, Scientific)
+   - https://www.kaggle.com/shaz13/real-world-documents-collections : 475 MB dataset with 5000 files, consisting of 16 kinds of documents. categories - (Specification, Email, Advertisement, Handwritten, Scientific Report, Budget, Scientific Publication, Presentation, File Folder, Memo, Resume, Invoice, Letter, Questionnaire, Form, News Article)
 
 5. What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect?
-   - Unit of analysis will be audio files and the associated attributes like male/female speaker, dialect, emotion portrayed etc.
+   - Unit of analysis will be various kinds of documents e.g. 
    - I have come across datasets varying from 500 MBs to 70 GBs. I am trying to narrow down the part of my analysis to avoid any unnecessary compute intensive tasks.
 
 6. What variable/measures do you plan to use in your analysis (variables should be tied to the question in #3)?
@@ -49,3 +58,9 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
 
 9. What outcomes do you intend to achieve (better understanding of the problems, tools to help solve problems, predictive analytics with practicle applications, etc.)?
    - I intend to develop a state of the art multimodal emotion detector or sentiment detector which can leverage all 3 types of data i.e. audio, visual and text.
+
+
+# References
+[1] https://www.altexsoft.com/blog/document-classification/
+[2] https://nanonets.com/blog/document-classification/
+[3] 
