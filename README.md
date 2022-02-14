@@ -23,6 +23,7 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - Document Classification task can also be perceived as a collaborative task dealing with text classification and visual classification because a document has an associated visual structure and texts related to its domain.
    - "Text classification concerns defining the type, genre, or theme of the text based on its content. Depending on the task, complex techniques like NLP can be used to analyze words and phrases in context and understand their semantics (meaning)."[1]
    - "Visual classification focuses on a visual structure of documents, employing computer vision and image recognition technologies."[1]
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/1.PNG)
 
 **2. Why is this issue important to you and/or to others?**
    - Document Classification has become crucial for various kinds of organizations, whether business or government, as "it not only helps us in saving information but also helps us find these documents whenever required."[2]
@@ -56,6 +57,7 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - I plan to use NLP, OCR, Computer Vision and Deep Learning Neural Networks for modeling purposes.
    - I can use OCR to extract the text of the document, preprocess the retrieved text and vectorize it to build features.
    - I can use CNN to retrieve the visual attributes of the documents.
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/2.PNG)
 
 **8. How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?**
    - Since, it is a classification problem, I can use the one of the following performance metrics to evaluate my models:
