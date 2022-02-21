@@ -70,6 +70,19 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - I intend to develop a state of the art multimodal document classifier which can leverage both types of data i.e. visual and text for making the final prediction.
 
 
+# Basic EDA
+**Text extracted from a sample image using Pytessearact**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/3.PNG)
+
+**Dataframe created that includes the label of the image along with its path**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/4.PNG)
+
+**Example of image from each class of document**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_1.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_2.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_3.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_4.PNG)
+
 # References
 [1] https://www.altexsoft.com/blog/document-classification/
 
