@@ -23,7 +23,7 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - Document Classification task can also be perceived as a collaborative task dealing with text classification and visual classification because a document has an associated visual structure and texts related to its domain.
    - "Text classification concerns defining the type, genre, or theme of the text based on its content. Depending on the task, complex techniques like NLP can be used to analyze words and phrases in context and understand their semantics (meaning)."[1]
    - "Visual classification focuses on a visual structure of documents, employing computer vision and image recognition technologies."[1]
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/1.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/1.PNG)
 
 **2. Why is this issue important to you and/or to others?**
    - Document Classification has become crucial for various kinds of organizations, whether business or government, as "it not only helps us in saving information but also helps us find these documents whenever required."[2]
@@ -56,7 +56,7 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - I plan to use NLP, OCR, Computer Vision and Deep Learning Neural Networks for modeling purposes.
    - I can use OCR to extract the text of the document, preprocess the retrieved text and vectorize it to build features.
    - I can use CNN to retrieve the visual attributes of the documents.
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/2.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/2.PNG)
 
 **8. How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?**
    - Since, it is a classification problem, I can use the one of the following performance metrics to evaluate my models:
@@ -73,18 +73,30 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
 # Basic EDA
 **Text extracted from a sample image using Pytessearact**
 
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/3.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/3.PNG)
 
 **Dataframe created that includes the label of the image along with its path**
 
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/4.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/4.PNG)
 
 **Example of image from each class of document**
 
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_1.PNG)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_2.PNG)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_3.PNG)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/5_4.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_1.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_2.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_3.PNG)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_4.PNG)
+
+**Word Cloud of text retrieved from images of each type of label**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_adve.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_email.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_form.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_letter.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_memo.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_news.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_note.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_report.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_resume.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_scientific.png)
 
 # References
 [1] https://www.altexsoft.com/blog/document-classification/
