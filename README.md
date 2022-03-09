@@ -89,6 +89,7 @@ Wherever possible, I have done these analyses both, collectively (i.e., using al
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/4.PNG)
 
 **Number of Images for Each label**
+
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/image_label_frequencies.png)
 
 **Example of image from each class of document**
@@ -99,15 +100,19 @@ Wherever possible, I have done these analyses both, collectively (i.e., using al
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_4.PNG)
 
 **Height and Width of Images**
+
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/image_height_width.PNG)
 
 **Text Length Distribution of Images**
+
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/text_length.PNG)
 
 **Languages Detected in the Images**
+
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/languages.PNG)
 
 **Word Cloud of text retrieved from images of each type of label**
+
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_adve.png)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_email.png)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_form.png)
@@ -120,10 +125,12 @@ Wherever possible, I have done these analyses both, collectively (i.e., using al
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_scientific.png)
 
 **Top 20 Frequent Words in All the Images**
+
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/top_20_all.png)
 
 **Lexical Dispersion Plot of Top 10 Frequent Words**
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/ldp_all.PNG)
+
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/ldp_all.png)
 
 # References
 [1] https://www.altexsoft.com/blog/document-classification/
