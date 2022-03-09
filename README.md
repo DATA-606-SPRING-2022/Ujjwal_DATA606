@@ -71,6 +71,15 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
 
 
 # Basic EDA
+
+I have conducted EDA in 2 phases: (a) EDA of images data, and (b) EDA of text data extracted from the images
+
+I have analyzed the format of images (whether they are .jpeg, .png etc), I have analyzed the type of images (whether they are grayscale or color) and I have analyzed the dimension data of image like height and width.
+
+I have cleaned the text, analyzed the length of texts, generated word clouds and also generated a lexical dispersion plot for top 10 frequent words.
+Wherever possible, I have done these analyses both, collectively (i.e., using all the data) and individually (i.e., for each label separately).
+
+
 **Text extracted from a sample image using Pytessearact**
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/3.PNG)
@@ -79,12 +88,24 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/4.PNG)
 
+**Number of Images for Each label**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/image_label_frequencies.png)
+
 **Example of image from each class of document**
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_1.PNG)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_2.PNG)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_3.PNG)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_4.PNG)
+
+**Height and Width of Images**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/image_height_width.PNG)
+
+**Text Length Distribution of Images**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/text_length.PNG)
+
+**Languages Detected in the Images**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/languages.PNG)
 
 **Word Cloud of text retrieved from images of each type of label**
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_adve.png)
@@ -98,9 +119,25 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_resume.png)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_scientific.png)
 
+**Top 20 Frequent Words in All the Images**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/top_20_all.png)
+
+**Lexical Dispersion Plot of Top 10 Frequent Words**
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/ldp_all.PNG)
+
 # References
 [1] https://www.altexsoft.com/blog/document-classification/
 
 [2] https://nanonets.com/blog/document-classification/
 
 [3] https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b
+
+
+# Resources
+
+**PPT Template:**
+
+Slidesgo - https://slidesgo.com/
+
+Freepik - https://www.freepik.com/
+
