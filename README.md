@@ -139,9 +139,11 @@ This is an introductory presentation on the Data Science Capstone Project that I
 I aim to classify documents through a multi-modal AI approach which will utilize image features and textual features of the image data.
 
 **PPT link:**
+
 https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/intro_ppt/assingment_4_DATA_690_Ujjwal.pptx
 
 **Video link:**
+
 https://www.youtube.com/watch?v=Cb07okBR4oI
 
 # References
