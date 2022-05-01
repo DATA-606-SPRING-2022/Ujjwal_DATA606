@@ -76,9 +76,15 @@ https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/Basic_EDA/README.md
 
 # Classification Using Image Features Only #
 
+https://github.com/ujjwalbb30/Ujjwal_DATA606/tree/main/Classification_Image_Features
+
 # Classification Using Text Features Only #
 
+https://github.com/ujjwalbb30/Ujjwal_DATA606/tree/main/Classification_Textual_Features
+
 # Classification Using Image and Text Features Combined #
+
+https://github.com/ujjwalbb30/Ujjwal_DATA606/tree/main/Classification_Image_Textual_Features_Combined
 
 # Conclusion #
 
@@ -122,6 +128,7 @@ https://www.youtube.com/watch?v=Cb07okBR4oI
 
 [3] https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b
 
+[4]
 
 # Resources
 
@@ -130,4 +137,17 @@ https://www.youtube.com/watch?v=Cb07okBR4oI
 Slidesgo - https://slidesgo.com/
 
 Freepik - https://www.freepik.com/
+
+**Icons**
+<a target="_blank" href="https://icons8.com/icon/AtzTbgXZOgpf/organization">Organization</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/flyjv8osHHkl/business">Business</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a href="https://www.flaticon.com/free-icons/efficiency" title="efficiency icons">Efficiency icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/data-analytics" title="data analytics icons">Data analytics icons created by xnimrodx - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/thought" title="thought icons">Thought icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/frequency" title="frequency icons">Frequency icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/data-classification" title="data classification icons">Data classification icons created by Chanut-is-Industries - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/photo" title="photo icons">Photo icons created by Pixel perfect - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/text" title="text icons">Text icons created by Pixel perfect - Flaticon</a>
+![image](https://user-images.githubusercontent.com/58893950/166166598-6d536632-898d-45b9-87fd-71510820f67b.png)
+
 
