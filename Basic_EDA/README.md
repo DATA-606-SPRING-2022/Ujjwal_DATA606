@@ -19,11 +19,11 @@ I have analyzed the format of images (whether they are .jpeg, .png etc), I have 
 I have cleaned the text, analyzed the length of texts, generated word clouds and also generated a lexical dispersion plot for top 10 frequent words.
 Wherever possible, I have done these analyses both, collectively (i.e., using all the data) and individually (i.e., for each label separately).
 
-## **Text extracted from a sample image using Pytessearact** ##
+## **Text Extracted From a Sample Image (Using Pytessearact)** ##
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/3.PNG)
 
-## **Dataframe created that includes the label of the image along with its path** ##
+## **Dataframe Created That Includes the Label of the Image Along With its Path** ##
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/4.PNG)
 
@@ -31,7 +31,7 @@ Wherever possible, I have done these analyses both, collectively (i.e., using al
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/image_label_frequencies.png)
 
-## **Example of image from each class of document** ##
+## **Example of an Image from each Class of Document** ##
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/5_1.PNG)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/5_2.PNG)
@@ -52,7 +52,7 @@ Wherever possible, I have done these analyses both, collectively (i.e., using al
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/languages.PNG)
 
-## **Word Cloud of text retrieved from images of each type of label** ##
+## **Word Cloud of Text Retrieved from Images of each type of Label** ##
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/wc_adve.png)
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/wc_email.png)
