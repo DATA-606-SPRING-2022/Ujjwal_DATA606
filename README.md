@@ -10,13 +10,13 @@
 
 > ***Grduate Grader (Data Science)***
 
-## About me
+## About me ##
 I am a passionate and a motivated professional with sheer interest in Data Science and Machine learning. Proficient in data cleaning and transformation, I am adept at conducting statistical analysis to derive data-driven insights and develop machine learning models. I am eagerly looking to join an organization where I can add value and make notable impact through my competent problem solving skills.
 
-## Capstone Project Title
-**Document Classification using OCR (Optical Character Recognition) and NLP (Natural Language Processing) - A Multimodal Approach**
+## Capstone Project Title ##
+**Document Classification With Combined Image and Text Features - A Multimodal Approach**
 
-## Project Draft Proposal
+## Project Draft Proposal ##
 **1. What is your issue of interest (provide sufficient background)?**
    - My issue of interest is Document Classification and I want to work on developing a state of art application that can classify a Document using Computer Vision, Optical Character Recognition (OCR) and NLP (Natural Language Processing).
    - "Document classification is a process of assigning categories or classes to documents to make them easier to manage, search, filter, or analyze. A document in this case is an item of information that has content related to some specific category. Product photos, commentaries, invoices, document scans, and emails all can be considered documents." [1]
@@ -70,69 +70,23 @@ I am a passionate and a motivated professional with sheer interest in Data Scien
    - I intend to develop a state of the art multimodal document classifier which can leverage both types of data i.e. visual and text for making the final prediction.
 
 
-# Basic EDA
+# Basic EDA #
 
-I have conducted EDA in 2 phases: (a) EDA of images data, and (b) EDA of text data extracted from the images
+https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/Basic_EDA/README.md
 
-I have analyzed the format of images (whether they are .jpeg, .png etc), I have analyzed the type of images (whether they are grayscale or color) and I have analyzed the dimension data of image like height and width.
+# Classification Using Image Features Only #
 
-I have cleaned the text, analyzed the length of texts, generated word clouds and also generated a lexical dispersion plot for top 10 frequent words.
-Wherever possible, I have done these analyses both, collectively (i.e., using all the data) and individually (i.e., for each label separately).
+# Classification Using Text Features Only #
 
+# Classification Using Image and Text Features Combined #
 
-**Text extracted from a sample image using Pytessearact**
+# Conclusion #
 
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/3.PNG)
+# Future Scope of Work #
 
-**Dataframe created that includes the label of the image along with its path**
+# Video and PPT #
 
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/4.PNG)
-
-**Number of Images for Each label**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/image_label_frequencies.png)
-
-**Example of image from each class of document**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_1.PNG)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_2.PNG)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_3.PNG)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/5_4.PNG)
-
-**Height and Width of Images**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/image_height_width.PNG)
-
-**Text Length Distribution of Images**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/text_length.PNG)
-
-**Languages Detected in the Images**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/languages.PNG)
-
-**Word Cloud of text retrieved from images of each type of label**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_adve.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_email.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_form.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_letter.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_memo.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_news.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_note.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_report.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_resume.png)
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/wc_scientific.png)
-
-**Top 20 Frequent Words in All the Images**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/top_20_all.png)
-
-**Lexical Dispersion Plot of Top 10 Frequent Words**
-
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/ldp_all.png)
-
-# Video and PPT
+## Introductory PPT ##
 
 This is an introductory presentation on the Data Science Capstone Project that I am undertaking under the guidance of Dr. Chaojie Wang as part of my program curriculum at UMBC.
 
@@ -145,6 +99,21 @@ https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/intro_ppt/assingment_4_DA
 **Video link:**
 
 https://www.youtube.com/watch?v=Cb07okBR4oI
+
+## Final Draft PPT ##
+
+This is a final draft presentation on the Data Science Capstone Project that I am undertaking under the guidance of Dr. Chaojie Wang as part of my program curriculum at UMBC.
+
+I have classified documents through a multi-modal AI approach which utilizes both, image features and textual features of the image data.
+
+**PPT link:**
+
+https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/final_draft_ppt/assingment_5_DATA_690_Ujjwal.pptx
+
+**Video link:**
+
+https://www.youtube.com/watch?v=Cb07okBR4oI
+
 
 # References
 [1] https://www.altexsoft.com/blog/document-classification/
