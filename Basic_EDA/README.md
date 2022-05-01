@@ -71,4 +71,4 @@ Wherever possible, I have done these analyses both, collectively (i.e., using al
 
 ## **Lexical Dispersion Plot of Top 10 Frequent Words** ##
 
-![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_readme/ldp_all.png)
+![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/ldp_all.png)
