@@ -1,4 +1,4 @@
-# DATA 606 - Capstone Project
+# DATA 606 - Capstone Project #
 
 **Ujjwal**
 
@@ -10,7 +10,7 @@
 
 > ***Grduate Grader (Data Science)***
 
-# Basic EDA
+# Basic EDA #
 
 I have conducted EDA in 2 phases: (a) EDA of images data, and (b) EDA of text data extracted from the images
 
@@ -19,7 +19,7 @@ I have analyzed the format of images (whether they are .jpeg, .png etc), I have 
 I have cleaned the text, analyzed the length of texts, generated word clouds and also generated a lexical dispersion plot for top 10 frequent words.
 Wherever possible, I have done these analyses both, collectively (i.e., using all the data) and individually (i.e., for each label separately).
 
-### **Text extracted from a sample image using Pytessearact**
+### **Text extracted from a sample image using Pytessearact** ###
 
 ![alt text](https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/images_Basic_EDA/3.PNG)
 
