@@ -128,7 +128,17 @@ https://www.youtube.com/watch?v=Cb07okBR4oI
 
 [3] https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b
 
-[4]
+[4] https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-multimodal.html
+
+[5] https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/
+
+[6] Jayant Kumar, Peng Ye and David Doermann. "Learning Document Structure for Retrieval and Classification." International Conference on Pattern Recognition (ICPR 2012), 2012.
+
+[7] Herbert L. Roitblat, Anne Kershaw, and Patrick Oot. 2010. Document categorization in legal electronic discovery: computer classification vs. manual review. J. Am. Soc. Inf. Sci. Technol. 61, 1 (January 2010), 70–80.
+
+[8] David Martens and Foster Provost. 2014. Explaining data-driven document classifications. MIS Q. 38, 1 (March 2014), 73–100. DOI:https://doi.org/10.25300/MISQ/2014/38.1.04
+
+[9] Nawaz, S., Calefati, A., Caraffini, M., Landro, N., & Gallo, I. (2019). Are These Birds Similar: Learning Branched Networks for Fine-grained Representations. 2019 International Conference on Image and Vision Computing New Zealand (IVCNZ), 1-5.
 
 # Resources
 
@@ -157,7 +167,5 @@ Freepik - https://www.freepik.com/
 <a href="https://www.flaticon.com/free-icons/photo" title="photo icons">Photo icons created by Pixel perfect - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/text" title="text icons">Text icons created by Pixel perfect - Flaticon</a>
-
-![image](https://user-images.githubusercontent.com/58893950/166166598-6d536632-898d-45b9-87fd-71510820f67b.png)
 
 
