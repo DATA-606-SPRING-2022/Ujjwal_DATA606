@@ -88,7 +88,24 @@ https://github.com/ujjwalbb30/Ujjwal_DATA606/tree/main/Classification_Image_Text
 
 # Conclusion #
 
+This has been by far one of the best projects that I have worked on. I got to learn a lot and I believe that this project holds the possibility of lots of future work.
+
+To summarize and compare:
+
+1. For image features alone, I used 4 state of the art ML models for classification and achieved the best performance of 17.71% accuracy-wise under 10 epochs.
+It might have been possible to achieve higher accuracy with more epochs, but the models are resource and time consuming.
+2. For text features alone, 3 state of the art ML models were used and all of them achieved an accuracy of more than 60%. The best accuracy was achieved by Random Forest Classifier which was about 83.68%. This shows that if the image contains significant amount of text, then capturing it and using it as an alone feature, contains the possibility of better classification results.
+3. For image and text features combined, 7 state of the art ML models were trained, out of which 6 performed consistently and classified the data with an accuracy of more than 80%. The best accuracy achieved was 83.31%.
+4. This work suggests that if the images contain significant amounts of text that can be retrieved and used as feature, It can boost the classification capability of machine learning model being implemented.
+5. It can also be concluded that combining text features and image features for classification will help in achieving consistent results.
+6. This method can prove to be very effective and efficient for industries handling large amounts of image data. It can also help in better document storage and information retrieval.
+
 # Future Scope of Work #
+
+This work holds a lot of opportunities in terms of future research and exploration.
+1. In most cases TF-IDF and countvectorizer was used as text vectorization technique. Many other techniques like FastAi, Word2Vec, Doc2Vec, etc. can also be used and compared in performance.
+2. Experiments with various types of deep neural networks and architectures can also be conducted.
+3. To make these process faster, a GPU optimized coding can also be explored as one of the research aspects of this problem statement.
 
 # Video and PPT #
 
