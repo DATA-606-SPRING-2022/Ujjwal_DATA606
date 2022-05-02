@@ -135,7 +135,7 @@ https://github.com/ujjwalbb30/Ujjwal_DATA606/blob/main/final_draft_ppt/assingmen
 
 **Video link:**
 
-https://www.youtube.com/watch?v=Cb07okBR4oI
+https://www.youtube.com/watch?v=CbJJ6h_n3hg
 
 
 # References
